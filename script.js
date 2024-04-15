@@ -845,15 +845,35 @@ const quizData = [
       answer: 'b) umutuku n`umukara',
     },
     {
-      question: '',
+      question: '84. Icyapa kivuga ko hatanyurwa mu byerekezo byombi kirangwa n`ubuso bw`ibara rikurikira:',
       options: [
-        '',
-        '',
-        '',
-        '',
+        'a) Umukara',
+        'b) Umweru',
+        'c) Ubururu',
+        'd) umutuku',
       ],
-      answer: '',
+      answer: 'b) Umweru',
     },
+  {
+    question: '85. Ibinyabiziga bikurikira bigomba kugira ibikoresho by`ihoni byumvikanira mu ntera ya m20:',
+    options: [
+      'a) Amapikipiki',
+      'b) Velomoteri',
+      'c) Ibinyabiziga bigendeshwa na moteri bidapakiye',
+      'd) Nta gisubizo cy`ukuri kirimo',
+],
+  answer: 'Velomoteri',
+    },
+  {
+    question: '86. Imirongo y`ingabo z`igihugu zigendera kuri gahunda n`utundi dutsiko twose tw`abanyamaguru nk`imperekerane cyangwa udutsiko tw`abanyeshuri iyo bitagishoboka kubona neza muri m200, bagaragazwa n`itara ryera imbere naho inyuma ni itara ry`umutuku ariko iyo uburebure bwiyo mirongo cyangwa bw`utwo dutsiko burenga m6 impande zatwo cyangwa zayo zigaragazwa kuburyo bukurikira:',
+    options: [ 
+       'a) Itara rimwe cyangwa mensi yera',
+       'b) Amatara menshi y`umuhondo',
+       'c) Amatara menshi asa n`icunga rihishije',
+       'd) Ibisubizo byose nibyo',
+  ],
+    answer: 'd) Ibisubizo byose nibyo',
+  },
   ];
   
   const quizContainer = document.getElementById('quiz');
